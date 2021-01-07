@@ -3453,3 +3453,64 @@ footer::before{
         width: 90%;
     }
 }
+
+@media screen and (max-width:380px){
+
+    .main_block1{
+        height: 2030px;
+    }
+
+    .header_nav{
+        position: absolute;
+        width: 90%; 
+        top: 5%;    
+        left: 0%;
+    }
+
+    .header_title{
+        position: absolute;
+        top: 35%;
+        left: 1%;
+        width: 85%;
+    }
+    
+    .header_text{
+        width: 80%;
+        top: 60%;
+        left: 6.5%;
+    }
+
+    .container_block1 .card_block1{
+        width: 80%;
+        height: 40%;
+        margin: 20px auto;
+    }
+
+    .container_block1 .card_block1_alt{
+        width: 80%;
+        height: 40%;
+        margin: 20px auto;
+    }
+
+    .block2_content{
+        position: absolute;
+        width: 90%;
+        height: 70%;
+        left: 0%;
+        top: 60%;
+        padding: 20px;
+    }
+
+    .block3_content{
+        position: absolute;
+        width: 90%;
+        height: 70%;
+        right: 0%;
+        top: 60%;
+        padding: 20px;
+    }
+
+    .block4_inner1{
+        top: 2%;
+    }
+}
