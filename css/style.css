@@ -3518,3 +3518,11 @@ footer::before{
         top: 2%;
     }
 }
+
+@media screen and (max-width:370px){
+
+    .main_block1{
+        height: 2080px;
+    }
+    
+}
