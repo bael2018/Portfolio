@@ -3525,4 +3525,278 @@ footer::before{
         height: 2120px;
     }
     
+    .down1{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 10px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 7s linear infinite;
+    }
+    
+    .down2{
+        position: absolute;
+        z-index: 100;
+        width: 10px;
+        right: 30px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 13s linear infinite;
+    }
+    
+    .down3{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 50px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 6s linear infinite;
+    }
+    
+    .down4{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 70px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 9s linear infinite;
+    }
+    
+    .down5{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 90px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 5s linear infinite;
+    }
+    
+    .down6{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 110px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 8s linear infinite;
+    }
+    
+    .down7{
+        position: absolute;
+        z-index: 100;
+        width: 10px;
+        right: 120px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 14s linear infinite;
+    }
+    
+    .down8{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 170px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 20s linear infinite;
+    }
+    
+    .down9{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 135px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 15s linear 5s infinite;
+    }
+    
+    .down10{
+        position: absolute;
+        z-index: 100;
+        width: 15px;
+        right: 100px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 8s linear 3s infinite;
+    }
+    
+    .down11{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 210px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 12s linear 1s infinite;
+    }
+    
+    .down12{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 70px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 17s linear 5s infinite;
+    }
+    
+    .down13{
+        position: absolute;
+        z-index: 100;
+        width: 20px;
+        right: 80px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 6s linear 4s infinite;
+    }
+    
+    .down14{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 230px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 10s linear 2s infinite;
+    }
+    
+    .down15{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 270px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 8s linear 3s infinite;
+    }
+    
+    .down16{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 240px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 10s linear 5s infinite;
+    }
+    
+    .down17{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 260px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 14s linear 2s infinite;
+    }
+    
+    .down18{
+        position: absolute;
+        z-index: 100;
+        width: 20px;
+        right: 230px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 10s linear infinite;
+    }
+    
+    .down19{
+        position: absolute;
+        z-index: 100;
+        width: 20px;
+        right: 250px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 9s linear infinite;
+    }
+    
+    .down20{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 200px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 14s linear 2s infinite;
+    }
+    
+    .down21{
+        position: absolute;
+        z-index: 100;
+        width: 20px;
+        right: 160px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 7s linear 2s infinite;
+    }
+    
+    .down22{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 290px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 8s linear 1s infinite;
+    }
+    
+    .down23{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 310px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 12s linear 5s infinite;
+    }
+    
+    .down24{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 210px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 5s linear 2s infinite;
+    }
+    
+    .down25{
+        position: absolute;
+        z-index: 100;
+        width: 5ppx;
+        right: 260px;
+        top: -40px;
+        transform: rotate(150deg);
+    
+        animation: snow 10s linear 3s infinite;
+    }
 }
