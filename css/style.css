@@ -3464,20 +3464,20 @@ footer::before{
         position: absolute;
         width: 90%; 
         top: 5%;    
-        left: 0%;
+        left: -1%;
     }
 
     .header_title{
         position: absolute;
         top: 35%;
-        left: 1%;
-        width: 85%;
+        left: 0%;
+        width: 90%;
     }
     
     .header_text{
         width: 80%;
         top: 60%;
-        left: 6.5%;
+        left: 5%;
     }
 
     .container_block1 .card_block1{
